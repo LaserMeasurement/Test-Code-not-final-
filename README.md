@@ -11,3 +11,5 @@ automatic adjustment of zero level
 manual fine tuning of zero level
 camera noise reduction algorithm
 visualization of FWHM, 1/e^2 and zero levels on the cross section charts
+
+Windows 7 ,64 , Net. Framework 4.5.2 
