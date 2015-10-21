@@ -1,0 +1,25 @@
+D:\c#prj\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\c#prj\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\c#prj\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\c#prj\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\c#prj\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\c#prj\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\c#prj\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Emgu.CV.dll
+D:\c#prj\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Emgu.CV.UI.dll
+D:\c#prj\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Emgu.Util.dll
+D:\c#prj\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ZedGraph.dll
+D:\c#prj\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Emgu.CV.pdb
+D:\c#prj\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Emgu.CV.xml
+D:\c#prj\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Emgu.CV.UI.pdb
+D:\c#prj\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Emgu.CV.UI.xml
+D:\c#prj\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Emgu.Util.pdb
+D:\c#prj\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Emgu.Util.xml
+D:\c#prj\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ZedGraph.xml
+D:\c#prj\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+D:\c#prj\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\c#prj\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\c#prj\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Emgu\emgucv-windows-universal 3.0.0.2157\bin\WindowsFormsApplication2.exe.config
+C:\Emgu\emgucv-windows-universal 3.0.0.2157\bin\WindowsFormsApplication2.exe
+C:\Emgu\emgucv-windows-universal 3.0.0.2157\bin\WindowsFormsApplication2.pdb
+C:\Emgu\emgucv-windows-universal 3.0.0.2157\bin\LaserBeamMeasurement.exe.config

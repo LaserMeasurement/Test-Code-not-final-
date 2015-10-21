@@ -1,0 +1,19 @@
+C:\Emgu\emgucv-windows-universal 3.0.0.2157\bin\LaserBeamMeasurement.exe.config
+C:\Emgu\emgucv-windows-universal 3.0.0.2157\bin\LaserBeamMeasurement.exe
+C:\Emgu\emgucv-windows-universal 3.0.0.2157\bin\LaserBeamMeasurement.pdb
+D:\c#prj\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\LaserBeamMeasurement.Form1.resources
+D:\c#prj\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\LaserBeamMeasurement.Properties.Resources.resources
+D:\c#prj\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\LaserBeamMeasurement.csproj.GenerateResource.Cache
+D:\c#prj\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\LaserBeamMeasurement.exe
+D:\c#prj\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\LaserBeamMeasurement.pdb
+D:\c#prj\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\LaserBeamMeasurement.csprojResolveAssemblyReference.cache
+D:\c#prj\WindowsFormsApplication2\lbm\obj\Debug\LaserBeamMeasurement.exe
+D:\c#prj\WindowsFormsApplication2\lbm\obj\Debug\LaserBeamMeasurement.pdb
+D:\c#prj\WindowsFormsApplication2\lbm\obj\Debug\LaserBeamMeasurement.Form1.resources
+D:\c#prj\WindowsFormsApplication2\lbm\obj\Debug\LaserBeamMeasurement.Properties.Resources.resources
+D:\c#prj\WindowsFormsApplication2\lbm\obj\Debug\LaserBeamMeasurement.csproj.GenerateResource.Cache
+D:\togit\lbm\obj\Debug\LaserBeamMeasurement.exe
+D:\togit\lbm\obj\Debug\LaserBeamMeasurement.pdb
+D:\togit\lbm\obj\Debug\LaserBeamMeasurement.Form1.resources
+D:\togit\lbm\obj\Debug\LaserBeamMeasurement.Properties.Resources.resources
+D:\togit\lbm\obj\Debug\LaserBeamMeasurement.csproj.GenerateResource.Cache
