@@ -13,3 +13,13 @@ camera noise reduction algorithm
 visualization of FWHM, 1/e^2 and zero levels on the cross section charts
 
 Windows 7 ,64 , Net. Framework 4.5.2 
+
+Install :  unzip lbm_prog.zip .
+Controls: 
+static - work with laser beam static picture
+dynamic - catch the laser beam image from camera
+manual mode - set the center of laser beam manually
+pixel pitch - set the camera pixel size
+zero level - set the image zero level (when "auto" is unchecked)
+ROI - set the region of interest
+click on the image - set the real size of the image (zoom on program start)
